@@ -1,0 +1,52 @@
+### Hi there 👋
+
+//todo
+
+#### How to reach me 📫
+
+-  Email: //todo
+
+<div align="center">
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackfiled/jackfiled/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackfiled/jackfiled/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jackfiled/jackfiled/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center" >
+
+<!--  skill badge 技能徽章 -->
+
+#### Programming 💪
+
+![CSharp Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
+![Static Badge](https://img.shields.io/badge/Dotnet-512BD4?logo=dotnet)
+![Static Badge](https://img.shields.io/badge/ASP.net-512BD4?logo=dotnet)
+![Static Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor)
+![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
+![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/GO-FAFAFA?logo=go)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-FAFAFA?logo=postgresql)
+
+
+#### Tools 🧰
+
+![Static Badge](https://img.shields.io/badge/Arch%20Linux-FAFAFA?logo=archlinux)
+![Static Badge](https://img.shields.io/badge/Gitea-FAFAFA?logo=gitea)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Static Badge](https://img.shields.io/badge/Rider-000000?logo=rider)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
+
+<div align="center" >
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jackfiled&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jackfiled&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+
+</div>
