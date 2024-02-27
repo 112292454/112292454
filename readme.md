@@ -4,7 +4,7 @@
 
 #### How to reach me 📫
 
--  Email: //todo
+-  Email: 1154459434@qq.com
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
