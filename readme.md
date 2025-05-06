@@ -25,25 +25,12 @@
 
 #### Programming 💪
 
-![CSharp Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
-![Static Badge](https://img.shields.io/badge/Dotnet-512BD4?logo=dotnet)
-![Static Badge](https://img.shields.io/badge/ASP.net-512BD4?logo=dotnet)
-![Static Badge](https://img.shields.io/badge/Blazor-512BD4?logo=blazor)
-![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
-![CPP Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus)
+![Java Badge](https://img.shields.io/badge/java-512BD4)
+![Python Badge](https://img.shields.io/badge/python-512BD4)
 ![Static Badge](https://img.shields.io/badge/GO-FAFAFA?logo=go)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-FAFAFA?logo=postgresql)
+![C Badge](https://img.shields.io/badge/C-555555?logo=c&logoColor=fff&style=flat)
 
 
-#### Tools 🧰
-
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-FAFAFA?logo=archlinux)
-![Static Badge](https://img.shields.io/badge/Gitea-FAFAFA?logo=gitea)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Static Badge](https://img.shields.io/badge/Rider-000000?logo=rider)
-![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
 
 <div align="center" >
 
