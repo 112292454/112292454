@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-//todo
+- I am a doctoral student at Beijing University of Posts and Telecommunications and graduated from BUPT with a bachelor's degree
+- Previous research interests were computer networks, and currently follow the tutors of graph neural networks. Current research is about the optimization of federated learning/distributed learning。
+- Hobby for writing some convenient and open tools
 
 #### How to reach me 📫
 
