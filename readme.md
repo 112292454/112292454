@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - I am a doctoral student at Beijing University of Posts and Telecommunications and graduated from BUPT with a bachelor's degree
-- Previous research interests were computer networks, and currently follow the tutors of graph neural networks. Current research is about the optimization of federated learning/distributed learning。
+- Previous research interests were computer networks, and currently following graph neural networks, Transformers, and generative models. Current research is about the unification of the generative model based on continuous space and the AG/MLM model based on discrete space
 - Hobby for writing some convenient and open tools
 
 #### How to reach me 📫
 
 -  Email: 1154459434@qq.com
+-  Google Scholar: https://scholar.google.com/citations?user=dVrSlvAAAAAJ
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
