@@ -48,10 +48,13 @@ These projects are secondary to my academic work, but they reflect my interest i
 - **Google Scholar**: https://scholar.google.com/citations?user=dVrSlvAAAAAJ
 - **GitHub**: https://github.com/112292454
 
+<div align="center">
 
 ![Zeyuan's GitHub stats](https://github-readme-stats-five-alpha-58.vercel.app/api?username=112292454&count_private=true&show_icons=true)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liart-psi.vercel.app?user=112292454" alt="GitHub Streak" /></a>
+
+<div align="center">
 
 <!-- <div align="center">
 <picture>
