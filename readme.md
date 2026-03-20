@@ -32,35 +32,35 @@ These projects are secondary to my academic work, but they reflect my interest i
 
 - **Video Auto Translator (VAT)**  
   A tool for automating video translation workflows.  
-  https://github.com/112292454/Video-Auto-Translator
+  https://github.com/ZeyuanGuo/Video-Auto-Translator
 
 - **VideoZip**  
   A lightweight utility project for video processing workflows.  
-  https://github.com/112292454/VideoZip
+  https://github.com/ZeyuanGuo/VideoZip
 
 - **textQuery**  
   A small utility project for text retrieval / query-related experimentation.  
-  https://github.com/112292454/textQuery
+  https://github.com/ZeyuanGuo/textQuery
 
 ## Links
 
 - **Email**: guozeyuan@bupt.edu.cn
 - **Google Scholar**: https://scholar.google.com/citations?user=dVrSlvAAAAAJ
-- **GitHub**: https://github.com/112292454
+- **GitHub**: https://github.com/ZeyuanGuo
 
 <div align="center">
 
-![Zeyuan's GitHub stats](https://github-readme-stats-five-alpha-58.vercel.app/api?username=112292454&count_private=true&show_icons=true)
+![Zeyuan's GitHub stats](https://github-readme-stats-five-alpha-58.vercel.app/api?username=ZeyuanGuo&count_private=true&show_icons=true)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liart-psi.vercel.app?user=112292454" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liart-psi.vercel.app?user=ZeyuanGuo" alt="GitHub Streak" /></a>
 
 <div align="center">
 
 <!-- <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/112292454/112292454/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/112292454/112292454/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/112292454/112292454/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeyuanGuo/ZeyuanGuo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeyuanGuo/ZeyuanGuo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZeyuanGuo/ZeyuanGuo/output/github-contribution-grid-snake.svg" />
 </picture>
 </div> -->
 
